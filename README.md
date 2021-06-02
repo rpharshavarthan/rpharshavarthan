@@ -13,6 +13,10 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rpharshavarthan.rpharshavarthan)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/simpleicons.svg" />
+
 
 <!--
 **rpharshavarthan/rpharshavarthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
