@@ -1,4 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=44F70A&lines=hi+there%2C+i'm+harsha+varthan)](https://git.io/typing-svg)
 <a href="">
   <img align="left" alt="Harsha's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
